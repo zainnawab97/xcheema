@@ -61,7 +61,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "923074060"
+let phoneNumber = "923074060856"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -290,7 +290,7 @@ XeonLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
+│「 𝑨𝒔𝒔𝒂𝒍𝒂𝒎 𝑶 𝑨𝒍𝒊𝒌𝒖𝒎 👋 」
 └┬❖ 「  @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
@@ -389,7 +389,7 @@ console.log(err)
             return msg?.message
         }
         return {
-            conversation: "Cheems Bot Here"
+            conversation: "✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏 Here"
         }
     }
     XeonBotInc.ev.on('messages.update', async chatUpdate => {
