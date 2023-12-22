@@ -8,7 +8,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
-global.autoread_status = false //auto view status/story (true to on, false to of)
+global.autoread_status = true //auto view status/story (true to on, false to of)
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
 global.keyopenai = "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"
@@ -24,14 +24,14 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.ownernomer = "923074060856" //ur owner number2
 global.ownername = "𝐙𝐀𝐈𝐍✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: Zanibhaii" //ur yt chanel name
+global.socialm = "GitHub: Zainnswab69" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "𝐙𝐀𝐈𝐍✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏"
 global.ownernumber = '923074060856'
-global.ownername = '🦄드림 가이 Xeon'
+global.ownername = '𝐙𝐀𝐈𝐍✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏'
 global.ownerNumber = ["923074060856@s.whatsapp.net"]
 global.ownerweb = "https://youtu.be/TnUAvasM-1kn"
 global.websitex = "https://youtu.be/TnUAvasM-1k"
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 🥰 KING ²⁰²⁴', 
 }
 
 let file = require.resolve(__filename)
